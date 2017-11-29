@@ -1,0 +1,9 @@
+{
+  "name": "xwc-cli",
+  "version": "1.0.0",
+  "description": "Command-line interface for X-Wing Companion",
+  "main": "xwc.js",
+  "repository": "https://github.com/guidokessels/xwc-cli",
+  "author": "Guido Kessels <guidokessels@gmail.com>",
+  "license": "MIT"
+}
